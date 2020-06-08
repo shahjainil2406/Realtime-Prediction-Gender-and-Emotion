@@ -10,3 +10,6 @@ As we need to create two models, One for gender and the other for emotion. We re
   
  #### [FOR MORE INFORMATION, GO THROUGH THE ATTACHED PDF]
  (This was as a part of project for course EE769 Introduction to Machine Learning at IIT Bombay)
+ 
+Please use the following link to access the dataset and saved models and weights
+https://drive.google.com/drive/folders/1nvuuMy4ywccceZ04TIgaV7b2vuTMMRg5?usp=sharing
